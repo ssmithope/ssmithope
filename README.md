@@ -21,11 +21,8 @@ I’m passionate about problem‑solving, learning new tools and creating projec
 ## Skills and technologies:
 
 Languages: Python, JavaScript, SQL, HTML, CSS
-
 Web Development: REST APIs, CRUD, MVC, Authentication, Responsive Design
-
 Tools: Git, GitHub, MySQL, Postman, VS Code, Render, Linux/CLI
-
 Other: OOP, Data Structures, Unit Testing, Agile/Scrum
 
 
@@ -42,6 +39,7 @@ CSE 340 Projects — Web backend fundamentals (https://github.com/ssmithope/CSE3
 CSE 341 Projects — Server‑side development and APIs (https://github.com/ssmithope/cse341-project1)
 Next.js Dashboard — Modern UI and component‑based development (https://github.com/ssmithope/nextjs-dashboard)
 CSE 212 Projects — Data structures and algorithm practice (https://github.com/ssmithope/cse212-projects)
+
 
 
 

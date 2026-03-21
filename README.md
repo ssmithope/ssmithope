@@ -51,11 +51,11 @@ Bachelor’s Degree in Applied Technology (in progress)
 
 
 ## Connect with me
-LinkedIn: linkedin.com/in/smith-eutrope-zephirin-4981b61b3
+**LinkedIn:** linkedin.com/in/smith-eutrope-zephirin-4981b61b3
 
 
 
 ## Notes
-This profile represents my journey as I continue developing my skills and preparing for a career in software development. Feel free to explore my repositories —I’m always building, learning and improving.
+This profile represents my journey as I continue developing my skills and preparing for a career in software development. Feel free to explore my repositories I’m always building, learning and improving.
 
 Thank you for visiting!

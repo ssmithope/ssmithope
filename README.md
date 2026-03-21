@@ -3,7 +3,7 @@
 
 ### Software Development Student | Full‑Stack Developer | API & Data Enthusiast
 
-I enjoy building clean, functional applications using Python, JavaScript, SQL and modern web technologies. 
+I enjoy building clean, functional applications using Python, JavaScript, SQL and modern web technologies.
 I’m passionate about problem‑solving, learning new tools and creating projects that make life easier.
 
 
@@ -21,8 +21,11 @@ I’m passionate about problem‑solving, learning new tools and creating projec
 ## Skills and technologies:
 
 Languages: Python, JavaScript, SQL, HTML, CSS
+
 Web Development: REST APIs, CRUD, MVC, Authentication, Responsive Design
+
 Tools: Git, GitHub, MySQL, Postman, VS Code, Render, Linux/CLI
+
 Other: OOP, Data Structures, Unit Testing, Agile/Scrum
 
 

@@ -35,7 +35,7 @@ CRUD app with authentication, REST API integration, and MySQL backend.
 **API‑Driven Data Dashboard**
 Real‑time data visualization dashboard using JavaScript and JSON APIs.
 
-**CI/CD Pipeline & Automated Testing
+**CI/CD Pipeline & Automated Testing**
 Automated testing, linting, and deployment using GitHub Actions + PyTest.
 
 Languages

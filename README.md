@@ -1,9 +1,9 @@
-# Hi there, I am Smith Eutrope Zephirin!
+# Hi, I'm Smith Eutrope Zephirin
 
 
-### Software Development Student | Full‑Stack Developer | API & Data Enthusiast
+### Software Developer| Backend | APIs | CI/CD |Full‑Stack
 
-I enjoy building clean, functional applications using Python, JavaScript, SQL and modern web technologies.
+I build reliable software using Python, JavaScript, SQL, and modern development tools. My work spans backend systems, RESTful APIs, full‑stack applications, and automated testing.
 I’m passionate about problem‑solving, learning new tools and creating projects that make life easier.
 
 
@@ -20,10 +20,11 @@ I’m passionate about problem‑solving, learning new tools and creating projec
 
 ## Skills and technologies:
 
-Languages: Python, JavaScript, SQL, HTML, CSS
-Web Development: REST APIs, CRUD, MVC, Authentication, Responsive Design
-Tools: Git, GitHub, MySQL, Postman, VS Code, Render, Linux/CLI
-Other: OOP, Data Structures, Unit Testing, Agile/Scrum
+- **Languages:** Python, JavaScript, SQL  
+- **Backend:** REST APIs, MySQL, Domain Modeling  
+- **Frontend:** JavaScript, HTML/CSS  
+- **Tools:** Git, GitHub, Postman, Linux/CLI, PyTest, GitHub Actions  
+- **Core:** CI/CD, Automated Testing, Debugging, Data Visualization  
 
 
 ## My projects
@@ -33,6 +34,12 @@ CRUD app with authentication, REST API integration, and MySQL backend.
 
 **API‑Driven Data Dashboard**
 Real‑time data visualization dashboard using JavaScript and JSON APIs.
+
+**CI/CD Pipeline & Automated Testing
+Automated testing, linting, and deployment using GitHub Actions + PyTest.
+
+Languages
+Haitian Creole • French • English • Spanish
 
 Here are a few repositories and practice repository:
 CSE 340 Projects — Web backend fundamentals (https://github.com/ssmithope/CSE340)
@@ -53,6 +60,7 @@ Bachelor’s Degree in Applied Technology (in progress)
 
 ## Connect with me
 **LinkedIn:** linkedin.com/in/smith-eutrope-zephirin-4981b61b3
+ssmithope@gmail.com
 
 
 
